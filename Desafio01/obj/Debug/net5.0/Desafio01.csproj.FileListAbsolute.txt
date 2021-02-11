@@ -1,0 +1,16 @@
+C:\git\GFT_START_UNI\Desafio01\bin\Debug\net5.0\Desafio01.exe
+C:\git\GFT_START_UNI\Desafio01\bin\Debug\net5.0\Desafio01.deps.json
+C:\git\GFT_START_UNI\Desafio01\bin\Debug\net5.0\Desafio01.runtimeconfig.json
+C:\git\GFT_START_UNI\Desafio01\bin\Debug\net5.0\Desafio01.runtimeconfig.dev.json
+C:\git\GFT_START_UNI\Desafio01\bin\Debug\net5.0\Desafio01.dll
+C:\git\GFT_START_UNI\Desafio01\bin\Debug\net5.0\ref\Desafio01.dll
+C:\git\GFT_START_UNI\Desafio01\bin\Debug\net5.0\Desafio01.pdb
+C:\git\GFT_START_UNI\Desafio01\obj\Debug\net5.0\Desafio01.csprojAssemblyReference.cache
+C:\git\GFT_START_UNI\Desafio01\obj\Debug\net5.0\Desafio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\GFT_START_UNI\Desafio01\obj\Debug\net5.0\Desafio01.AssemblyInfoInputs.cache
+C:\git\GFT_START_UNI\Desafio01\obj\Debug\net5.0\Desafio01.AssemblyInfo.cs
+C:\git\GFT_START_UNI\Desafio01\obj\Debug\net5.0\Desafio01.csproj.CoreCompileInputs.cache
+C:\git\GFT_START_UNI\Desafio01\obj\Debug\net5.0\Desafio01.dll
+C:\git\GFT_START_UNI\Desafio01\obj\Debug\net5.0\ref\Desafio01.dll
+C:\git\GFT_START_UNI\Desafio01\obj\Debug\net5.0\Desafio01.pdb
+C:\git\GFT_START_UNI\Desafio01\obj\Debug\net5.0\Desafio01.genruntimeconfig.cache
