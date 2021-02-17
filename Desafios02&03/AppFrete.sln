@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppFrete", "AppFrete.csproj", "{0029C423-BF62-4162-AD98-A2E2E1B79D1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0029C423-BF62-4162-AD98-A2E2E1B79D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0029C423-BF62-4162-AD98-A2E2E1B79D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0029C423-BF62-4162-AD98-A2E2E1B79D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0029C423-BF62-4162-AD98-A2E2E1B79D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A69F21B-F314-41B0-A119-6D2E46546599}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\micha\Desktop\Object Oriented Programming\AppFrete\bin\Debug\AppFrete.exe.config
+C:\Users\micha\Desktop\Object Oriented Programming\AppFrete\bin\Debug\AppFrete.exe
+C:\Users\micha\Desktop\Object Oriented Programming\AppFrete\bin\Debug\AppFrete.pdb
+C:\Users\micha\Desktop\Object Oriented Programming\AppFrete\obj\Debug\AppFrete.csprojAssemblyReference.cache
+C:\Users\micha\Desktop\Object Oriented Programming\AppFrete\obj\Debug\AppFrete.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Object Oriented Programming\AppFrete\obj\Debug\AppFrete.exe
+C:\Users\micha\Desktop\Object Oriented Programming\AppFrete\obj\Debug\AppFrete.pdb
