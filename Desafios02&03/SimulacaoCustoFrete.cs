@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppFrete
 {
-    public class SumilacaoCustoFrete
+    public class SimulacaoCustoFrete
     {
-        public SumilacaoCustoFrete()
+        public SimulacaoCustoFrete()
         {
             this.InitList();
             this.ComparaFrete();

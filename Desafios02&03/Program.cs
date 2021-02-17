@@ -30,7 +30,7 @@ namespace AppFrete
             Console.ReadKey();
             Console.Clear();
 
-            SumilacaoCustoFrete simulacao = new SumilacaoCustoFrete();
+            SimulacaoCustoFrete simulacao = new SimulacaoCustoFrete();
 
             Console.ReadKey();
         }
